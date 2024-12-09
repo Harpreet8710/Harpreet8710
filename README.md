@@ -28,9 +28,10 @@ In this profile, you'll find a collection of projects and code samples showcasin
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="max-width: 100%;">
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="max-width: 100%;">
         <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;">
-        
+
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathleenforgiarini&layout=compact" alt="Top Languages" style="max-width: 100%;"> 
     </div>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathleenforgiarini&layout=compact" alt="Top Languages" style="max-width: 100%;"> 
+   
 </body>
 </html>
 

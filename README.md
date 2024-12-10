@@ -33,8 +33,8 @@ In this profile, you'll find a collection of projects and code samples showcasin
         <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
     </div>
     <div>
-        <h2 class="heading-element" dir="auto">📊 Language Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathleenforgiarini&layout=compact" alt="Top Languages" style="max-width: 100%;">
+        <h2 class="heading-element" dir="auto">📊 GitHub Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harpreet8710&layout=compact" alt="Top Languages" style="max-width: 100%;">
     </div>
 </body>
 </html>

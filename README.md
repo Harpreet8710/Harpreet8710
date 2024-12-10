@@ -18,7 +18,7 @@ In this profile, you'll find a collection of projects and code samples showcasin
     <div class="markdown-heading" dir="auto">
         <h2 class="heading-element" dir="auto">🚀💻 Technologies &amp; Tools</h2>
     </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathleenforgiarini&layout=compact" alt="Top Languages" style="max-width: 100%;"> 
+    
     <div>
         <!-- Technology badges -->
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;">
@@ -29,7 +29,7 @@ In this profile, you'll find a collection of projects and code samples showcasin
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="max-width: 100%;">
         <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;">
        
-    </div>
+    
 </body>
 </html>
 
